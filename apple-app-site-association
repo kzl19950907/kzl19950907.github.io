@@ -1,0 +1,11 @@
+{
+    "applinks":{
+        "apps":[],
+        "details":[
+            {
+                "appID":"5HQ43E8K7M.com.homai.newMarket",
+                "paths":["/app/*"]
+            }
+        ]
+    }
+}
